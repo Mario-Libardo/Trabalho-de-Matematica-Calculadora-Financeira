@@ -8,17 +8,13 @@ namespace Calculadora_Financeira
 {
     internal class financiamentoSimples
     {
-        public decimal CalcularFinanciamento(decimal p, decimal i, decimal t)
+        public decimal CalcularFinanciamento(decimal valor, decimal taxaPercent, decimal meses)
         {
-            // Converter taxa percentual para decimal (ex: 5% → 0.05)
-            decimal taxa = i / 100;
+            decimal i = taxaPercent / 100m;   // taxa decimal
+            decimal fator = (decimal)Math.Pow((double)(1 + i), (double)meses);
 
-            // Aplicação da fórmula F = (P * (1 - (1 + i)^-t)) / i
-            decimal fator = (decimal)(1 - Math.Pow((double)(1 + taxa), (double)-t));
-
-            decimal F = (p * fator) / taxa;
-
-            return F;
+            decimal PMT = valor * (i * fator) / (fator - 1);
+            return Math.Round(PMT, 2);
         }
 
     }
