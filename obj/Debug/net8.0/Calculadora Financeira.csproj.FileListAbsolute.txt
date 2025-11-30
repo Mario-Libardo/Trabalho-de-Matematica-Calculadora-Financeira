@@ -1,0 +1,44 @@
+C:\Users\Alexandre\source\repos\Calculadora Financeira\bin\Debug\net8.0\Calculadora Financeira.exe
+C:\Users\Alexandre\source\repos\Calculadora Financeira\bin\Debug\net8.0\Calculadora Financeira.deps.json
+C:\Users\Alexandre\source\repos\Calculadora Financeira\bin\Debug\net8.0\Calculadora Financeira.runtimeconfig.json
+C:\Users\Alexandre\source\repos\Calculadora Financeira\bin\Debug\net8.0\Calculadora Financeira.dll
+C:\Users\Alexandre\source\repos\Calculadora Financeira\bin\Debug\net8.0\Calculadora Financeira.pdb
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\Calculadora Financeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\Calculadora Financeira.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\Calculadora Financeira.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\Calculadora Financeira.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\Calculadora Financeira.dll
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\refint\Calculadora Financeira.dll
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\Calculadora Financeira.pdb
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\Calculadora Financeira.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\Calculadora Financeira\obj\Debug\net8.0\ref\Calculadora Financeira.dll
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.exe
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.deps.json
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.runtimeconfig.json
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.dll
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.pdb
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.AssemblyInfoInputs.cache
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.AssemblyInfo.cs
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.csproj.CoreCompileInputs.cache
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.sourcelink.json
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.dll
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\refint\Calculadora Financeira.dll
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.pdb
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.genruntimeconfig.cache
+C:\Users\0040482521034\Documents\calculadora\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\ref\Calculadora Financeira.dll
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.exe
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.deps.json
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.runtimeconfig.json
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.dll
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\bin\Debug\net8.0\Calculadora Financeira.pdb
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.sourcelink.json
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.dll
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\refint\Calculadora Financeira.dll
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.pdb
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\Calculadora Financeira.genruntimeconfig.cache
+C:\Users\Alexandre\Desktop\cal\Trabalho-de-Matematica-Calculadora-Financeira\obj\Debug\net8.0\ref\Calculadora Financeira.dll
